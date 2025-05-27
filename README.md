@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshaj-M
 - 👀 I’m interested in Machine Learning and LLM
-- 🌱 I’m sophomore AI and Data science Student 
+- 🌱 I’m  AI and Data science Student 
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me https://www.linkedin.com/in/akshaj-m-2a9721241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: ...
